@@ -1,20 +1,15 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/fieldstyler/side_projects/mofie/spec/models/album_spec.rb": {
+      "/Users/fieldstyler/side_projects/mofie/spec/features/welcome/index_spec.rb": {
         "lines": [
           1,
           null,
           1,
           1,
-          2,
-          2,
-          2,
-          2,
-          null,
-          null,
           1,
-          2,
+          1,
+          1,
           null,
           null
         ]
@@ -336,12 +331,31 @@
         "lines": [
           1,
           null,
+          1,
           null
         ]
       },
       "/Users/fieldstyler/side_projects/mofie/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/fieldstyler/side_projects/mofie/spec/models/album_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
           null
         ]
       },
@@ -387,8 +401,21 @@
           1,
           null
         ]
+      },
+      "/Users/fieldstyler/side_projects/mofie/app/controllers/welcome_controller.rb": {
+        "lines": [
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/fieldstyler/side_projects/mofie/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1619711225
+    "timestamp": 1619712469
   }
 }
