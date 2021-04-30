@@ -9,6 +9,31 @@
           1,
           1,
           1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
           1,
           null,
           null
@@ -332,6 +357,12 @@
           1,
           null,
           1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
           null
         ]
       },
@@ -341,21 +372,16 @@
           null
         ]
       },
-      "/Users/fieldstyler/side_projects/mofie/spec/models/album_spec.rb": {
+      "/Users/fieldstyler/side_projects/mofie/app/controllers/welcome_controller.rb": {
         "lines": [
           1,
           null,
+          null
+        ]
+      },
+      "/Users/fieldstyler/side_projects/mofie/app/controllers/application_controller.rb": {
+        "lines": [
           1,
-          1,
-          2,
-          2,
-          2,
-          2,
-          null,
-          null,
-          1,
-          2,
-          null,
           null
         ]
       },
@@ -377,22 +403,6 @@
           null
         ]
       },
-      "/Users/fieldstyler/side_projects/mofie/spec/models/song_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          2,
-          2,
-          null,
-          null,
-          1,
-          2,
-          null,
-          null
-        ]
-      },
       "/Users/fieldstyler/side_projects/mofie/app/models/song.rb": {
         "lines": [
           1,
@@ -402,20 +412,33 @@
           null
         ]
       },
-      "/Users/fieldstyler/side_projects/mofie/app/controllers/welcome_controller.rb": {
+      "/Users/fieldstyler/side_projects/mofie/app/controllers/albums_controller.rb": {
         "lines": [
           1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
           null,
           null
         ]
       },
-      "/Users/fieldstyler/side_projects/mofie/app/controllers/application_controller.rb": {
+      "/Users/fieldstyler/side_projects/mofie/app/controllers/songs_controller.rb": {
         "lines": [
           1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1619712469
+    "timestamp": 1619811735
   }
 }
