@@ -1,0 +1,4 @@
+<h1><%= @songs.first.album.title %></h1>
+<% @songs.each do |song| %>
+  <p>Track: <a href='/songs/<%= song.id %>'><%= song.title %></a></p>
+<% end %>
