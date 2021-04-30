@@ -20,10 +20,10 @@
           1,
           1,
           1,
-          1,
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
+          0,
           null,
           null
         ]
@@ -363,12 +363,12 @@
           null,
           1,
           1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           null,
           null
         ]
@@ -379,8 +379,8 @@
           null,
           1,
           1,
-          1,
-          1,
+          0,
+          0,
           null,
           null
         ]
@@ -391,14 +391,14 @@
           null,
           1,
           1,
-          2,
-          2,
-          2,
-          2,
+          1,
+          1,
+          1,
+          1,
           null,
           null,
           1,
-          2,
+          1,
           null,
           null
         ]
@@ -427,12 +427,12 @@
           null,
           1,
           1,
-          2,
-          2,
+          1,
+          1,
           null,
           null,
           1,
-          2,
+          1,
           null,
           null
         ]
@@ -454,7 +454,8 @@
           null,
           null,
           1,
-          2,
+          1,
+          1,
           null,
           null
         ]
@@ -464,15 +465,8 @@
           1,
           null
         ]
-      },
-      "/Users/fieldstyler/side_projects/mofie/app/controllers/welcome_controller.rb": {
-        "lines": [
-          1,
-          null,
-          null
-        ]
       }
     },
-    "timestamp": 1619795778
+    "timestamp": 1619796375
   }
 }
