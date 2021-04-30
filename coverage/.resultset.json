@@ -1,10 +1,24 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/fieldstyler/side_projects/mofie/spec/features/welcome/index_spec.rb": {
+      "/Users/fieldstyler/side_projects/mofie/spec/features/albums/index_spec.rb": {
         "lines": [
           1,
           null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
           1,
           1,
           1,
@@ -332,12 +346,42 @@
           1,
           null,
           1,
+          1,
+          1,
           null
         ]
       },
       "/Users/fieldstyler/side_projects/mofie/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/fieldstyler/side_projects/mofie/spec/features/albums/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/fieldstyler/side_projects/mofie/spec/features/welcome/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -402,9 +446,15 @@
           null
         ]
       },
-      "/Users/fieldstyler/side_projects/mofie/app/controllers/welcome_controller.rb": {
+      "/Users/fieldstyler/side_projects/mofie/app/controllers/albums_controller.rb": {
         "lines": [
           1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
           null,
           null
         ]
@@ -414,8 +464,15 @@
           1,
           null
         ]
+      },
+      "/Users/fieldstyler/side_projects/mofie/app/controllers/welcome_controller.rb": {
+        "lines": [
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1619712469
+    "timestamp": 1619795778
   }
 }
