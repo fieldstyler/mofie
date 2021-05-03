@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_04_29_154305) do
+ActiveRecord::Schema.define(version: 2021_04_30_204651) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -26,6 +26,7 @@ ActiveRecord::Schema.define(version: 2021_04_29_154305) do
     t.string "title"
     t.string "length"
     t.bigint "album_id"
+    t.string "track_number"
     t.index ["album_id"], name: "index_songs_on_album_id"
   end
 
