@@ -10,8 +10,8 @@ RSpec.describe "Album Index Page" do
 
   it 'takes you to show page when you click on an album' do
     album = Album.create(title: "Black Hole - EP", genre: "awesome", release_date: "2021", artist: "mofie")
-    Song.create(title: "Swing & a Miss", length: 267, album: album)
-    Song.create(title: "Yoursnotmine", length: 207, album: album)
+    Song.create(title: "Swing & a Miss", length: 267, track_number: "1", album: album)
+    Song.create(title: "Yoursnotmine", length: 207, track_number: "2", album: album)
     visit '/albums'
     expect(page).to have_content(album.title)
     click_on album.title
