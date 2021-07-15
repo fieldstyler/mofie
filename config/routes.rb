@@ -7,4 +7,5 @@ Rails.application.routes.draw do
 
   get '/songs', to: "songs#index"
   get '/songs/:id', to: "songs#show"
+  get '/songs/:id/lyrics', to: "lyrics#show"
 end

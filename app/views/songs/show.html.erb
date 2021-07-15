@@ -2,3 +2,5 @@
 <h2><%= @song.album.artist %></h2>
 <h3>Album: <%= @song.album.title %></h3>
 <h4>Song Length: <%= @song.length %> seconds</h4>
+<br>
+<h3><a href="/songs/<%= @song.id %>/lyrics">"Lyrics"</a></h3>

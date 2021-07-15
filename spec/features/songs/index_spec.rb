@@ -13,6 +13,7 @@ RSpec.describe "Song Index Page" do
     album.songs.each do |song|
       expect(page).to have_content(song.title)
       expect(page).to have_content(song.album.title)
+      expect(page).to have_content(song.track_number)
     end
   end
 
